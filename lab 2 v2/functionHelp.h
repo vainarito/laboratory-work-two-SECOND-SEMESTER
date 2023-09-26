@@ -1,0 +1,14 @@
+void printList();
+void deleteStringByIndex();
+void deleteLastString();
+void peregruzkaPlus();
+void peregruzkaPlusEquals();
+void peregruzkaMinus();
+void peregruzkaMinusEquals();
+void overloadMultiply();
+void overloadMultiplyExactly();
+void assignmentOperatorOverload();
+void overloadingTheEqualityOperator();
+void operatorOverloadIsGreater();
+void LessOperatorOverload();
+void peregruzSkobki();
